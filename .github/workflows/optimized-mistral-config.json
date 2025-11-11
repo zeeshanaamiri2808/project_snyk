@@ -1,0 +1,11 @@
+{
+  "model_options": {
+    "temperature": 0.1,
+    "num_ctx": 2048,
+    "num_predict": 1024,
+    "top_k": 10,
+    "top_p": 0.9
+  },
+  "batch_size": 5,
+  "max_concurrent_requests": 2
+}
